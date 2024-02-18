@@ -1,0 +1,14 @@
+<Route path="/business"><MulNews pageSize={6} county='in' category='sports'/></Route>
+<Route path="/entertainment"><MulNews pageSize={6} county='in' category='sports'/></Route>
+<Route path="/general"><MulNews pageSize={6} county='in' category='sports'/></Route>
+<Route path="/health"><MulNews pageSize={6} county='in' category='sports'/></Route>
+<Route path="/science"><MulNews pageSize={6} county='in' category='sports'/></Route>
+<Route path="/sports"><MulNews pageSize={6} county='in' category='sports'/></Route>
+<Route path="/technology"><MulNews pageSize={6} county='in' category='sports'/></Route>
+
+
+          
+          
+          
+
+<Route path="/"><MulNews pageSize={6} county='in' category='sports'/></Route>
